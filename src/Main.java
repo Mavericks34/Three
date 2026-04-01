@@ -7,6 +7,8 @@ public class Main {
         System.out.println(" Lets go");
         short name = 29;
         System.out.println("Возраст - " + name);
+        int my = 25;
+        System.out.println(my);
 
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
