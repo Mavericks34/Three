@@ -6,8 +6,8 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println(" Lets go");
         short name = 29;
-        System.out.println("Возраст - " + name);
-        int my = 25;
+        System.out.println("Так - " + name);
+        long my = 25;
         System.out.println(my);
 
         for (int i = 1; i <= 5; i++) {
